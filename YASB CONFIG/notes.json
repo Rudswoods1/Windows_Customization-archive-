@@ -1,0 +1,6 @@
+[
+  {
+    "title": "git init\ngit config user.name \"Rudswoods1\"\ngit config user.email \"231199@astanait.edu.kz\"\ngit add .\ngit commit -m \"Initial commit\"\ngit branch -M main\ngit remote add origin https://github.com/Rudswoods1/YOUR_REPO_NAME.git\ngit push -u origin main",
+    "timestamp": "2025-06-15T23:57:32.498405"
+  }
+]
