@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; Downloads
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{374DE290-123F-4565-9164-39C4925E467B}\DefaultIcon]
+@="C:\\MY_EGGFILES\\IMAGES\\Icons\\100 Liquid Glass icons\\ICO\\download.ico"
+
+; Documents - стандартный CLSID
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{FDD39AD0-238F-46AF-ADB4-6C85480369C7}\DefaultIcon]
+@="C:\\MY_EGGFILES\\IMAGES\\Icons\\100 Liquid Glass icons\\ICO\\document.ico"
+
+; Documents - альтернативный CLSID (в Windows 11 часто используется именно он)
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\CLSID\{D3162B92-9365-467A-956B-92703ACA08AF}\DefaultIcon]
+@="C:\\MY_EGGFILES\\IMAGES\\Icons\\100 Liquid Glass icons\\ICO\\document.ico"
